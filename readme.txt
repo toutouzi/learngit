@@ -1,2 +1,2 @@
-git is a good control 我改了这 sytem
-denghaowen is还有这 handsome 
+git is a distribute good control sytem
+denghaowen is free software handsome 
