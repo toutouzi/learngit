@@ -1,4 +1,2 @@
-git is a distribute good control sytem
-denghaowen is free software handsome 
-git has a stage
-git change change again
+因为mit 6.828开始学习学习使用git
+此为测试
